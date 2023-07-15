@@ -1,1 +1,2 @@
-let julio = 'server';
+let julio = "server";
+let santiago = julio;
